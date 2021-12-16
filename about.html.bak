@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="personal.css" />
+		<title>About Me</title>
+	</head>
+	<body>
+		<div class="nav"></div>
+		<div class="line">
+            <div id="linefore">
+                <h1>Emma Hopkins' Personal Website</h1>
+            </div>
+        </div>
+		<div class="nav">
+			<ul class="nav">
+				<li width = "25%"><a href = "index.html">Home</a></li>
+				<li width = "25%"><a href = "about.html">About Me</a></li>
+				<li width = "25%"><a href = "hobbies.html">Hobbies</a></li>
+				<li width = "25%"><a href = "resume.html">Resume</a></li>
+				<li width = "25%"><a href = "contact.html">Contact Me</a></li>
+			</ul>
+		</div>
+		<div id="fieldback">
+            <div class="field">
+				<div class="content">
+					<h2>About Me</h2>
+					<div class="body">
+						<img width = "200" height = "300" src="nkupic.jpg" alt = "NKU track portrait"/>
+						<h4>Where I'm From</h4>
+						<p>I was born in Montgomery, Ohio, on March 13, 2003</p>
+						<p>I now live in Independence, Kentucky</p>
+						
+						<h4>School</h4>
+						<p>Majoring in Computer Science with a minor in German at Northern Kentucky University, class of 2025</p>
+						<p style="text-indent:50px">I am on the Women's Track Team and the VEX Robotics Team</p>
+						<p>Graduated from Dixie Heights High School, class of 2021</p>
+						
+						
+						<h4>Family</h4>
+						<p>I have two amazing younger sisters and the best mom and dad I could ask for</p>
+						<table>
+							<tr>
+								<td><img width = "300" height = "200" src="sisters.JPG"/></td>
+								<td><img width = "300" height = "200" src="parents.jpg"/></td>
+							</tr>
+							<tr>
+								<td>Riley, me, Aubrey</td>
+								<td>My parents</td>
+						</table>
+						<h4>Pets</h4>
+						<p>I have a cat named Shay and a dog named Harry.</p>
+						<table>
+							<tr>
+								<td><img width = "200" height = "350" src = "shay.JPG"/></td>
+								<td><img width = "200" height = "350" src = "harry2.JPG"/></td>
+							</tr>
+							<tr>
+								<td>Shay</td>
+								<td>Harry</td>
+							</tr>
+						</table>
+						</br>
+						</br>
+					</div>	
+				</div>
+			</div>	
+		</div>
+		<div class="line">
+			</br>
+			</br>
+			<a href = "about.html">Back to Top</a>
+			</br>
+			</br>
+		</div>
+	</body>
+</html>

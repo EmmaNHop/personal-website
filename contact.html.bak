@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="personal.css" />
+		<title>Contact Me</title>
+	</head>
+	<body>
+		<div class="nav"></div>
+		<div class="line">
+            <div id="linefore">
+                <h1>Emma Hopkins' Personal Website</h1>
+            </div>
+        </div>
+		<div class="nav">
+			<ul class="nav">
+				<li width = "25%"><a href = "index.html">Home</a></li>
+				<li width = "25%"><a href = "about.html">About Me</a></li>
+				<li width = "25%"><a href = "hobbies.html">Hobbies</a></li>
+				<li width = "25%"><a href = "resume.html">Resume</a></li>
+				<li width = "25%"><a href = "contact.html">Contact Me</a></li>
+			</ul>
+		</div>
+		<div id="fieldback">
+            <div class="field">
+				<div class="content">
+					<h2>Contact Me</h2>
+					<h4>Email</h4>
+					<p><b>School:</b> Hopkinse3@nku.edu</p>
+					<p><b>Other:</b> Emmanicolehop@gmail.com</p>
+					<h4>Instagram</h4>
+					<a href = "https://www.instagram.com/bunnyhop1303/">@bunnyhop1303</a>
+					<h4>Discord</h4>
+					<p>Bunnyhop1303#0867</a>
+					</br>
+					</br>
+				</div>	
+			</div>	
+		</div>
+		<div class="line">
+			</br>
+			</br>
+			<a href = "contact.html">Back to Top</a>
+			</br>
+			</br>
+		</div>
+	</body>
+</html>

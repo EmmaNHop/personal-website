@@ -1,0 +1,136 @@
+/* 0081A7  00AFB9  FDFCDC  FED9B7  F07167 */
+
+body{
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	background-color:#FDFCDC;
+}
+#header{
+	background-color:#FFD700;
+	text-align:center;
+	font-size:140%;
+}
+a:link, a:hover, a:visited, a:active{
+	color:white;
+	text-decoration:none;
+}
+p {
+	text-indent: 20px;
+}
+span{
+	padding: 10%;
+}
+table {
+	text-align: center;
+}
+.track {
+	margin-left: auto;
+	margin-right:auto;
+}
+.plants {
+	text-align: center;
+}
+.games {
+	text-align: center;
+}
+.flex{
+	display:flex;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+.col{
+	flex-grow:1;
+	background-color:grey;
+	color:white;
+	margin:5px;
+	padding:8px;
+	text-align:center;	
+}
+.row{
+	margin:5px;
+	padding:3px;
+	border:1px;
+	border-style:solid none none none;
+	border-color:black;
+}
+div.nav{
+	width:90%;
+    margin: auto;
+	background:#F07167; 
+	height:46px;
+}
+ul.nav {
+	position:relative;
+	justify-content:center;
+    margin:0;
+    padding:0;
+    list-style:none;
+    height:46px; 
+	line-height:36px;	
+}
+ul.nav li {
+    width:19.9%;
+	text-align:center;
+    height:46px;
+    border-right:1px solid #FED9B7; 
+    float:left;
+}
+ul.nav a {
+    margin-top: 5px;
+    display:block;
+    color:white;
+    text-decoration:none;
+}
+h1{
+    position: relative;
+    bottom:15%;
+    text-align: center;
+    color:white;
+    font-size:250%;
+}
+h2{
+	position: relative;
+	font-size:180%;
+	color:white;
+	text-align:center;
+}
+h3 {
+	text-decoration: underline
+}
+h4 {
+	text-decoration: underline;
+}
+#fieldback{
+	height:fit-content;
+    background-color:#0081A7;
+    margin:auto;
+	width: 90%;
+	padding:8% 0%;
+}
+.field{
+	margin:auto;
+    width:85%;
+    height:fit-content;
+    background-color:#00AFB9;
+}
+.line{
+    width: 90%;
+    background-color: #F07167;
+    height: 80px;
+    margin:auto;
+    text-align: center;
+}
+#linefore{
+    position:absolute;
+    left:10%;
+    width:80%;
+    height: 80px;
+    margin: auto;
+    background-color:#FED9B7;
+}
+.content{
+	padding: 5%;
+	font-size:120%;
+}
